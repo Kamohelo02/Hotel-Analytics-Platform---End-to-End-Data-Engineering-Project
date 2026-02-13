@@ -1,4 +1,5 @@
 **Overview**
+
 This project implements a complete data engineering pipeline for hotel booking analytics using Snowflake as the core data platform. The pipeline follows the medallion architecture pattern (Bronze-Silver-Gold) to transform raw booking data into actionable business insights, visualized through interactive dashboards.
 
 ***Key Business Questions Answered:***
