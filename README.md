@@ -68,6 +68,9 @@ Currency code format   -	UPPER() with TRIM
 
 Status typo correction - CASE statement for common misspellings
 
+<img width="1920" height="916" alt="Screenshot (607)" src="https://github.com/user-attachments/assets/2cb52072-c369-41af-a493-afff56226bdf" />
+
+
 **Dashboard Preview**
 
 <img width="1902" height="915" alt="Screenshot (606)" src="https://github.com/user-attachments/assets/dd8eb963-e892-489b-8852-823d6d1f0ae5" />
