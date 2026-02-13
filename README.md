@@ -18,7 +18,7 @@ What is the average booking value?
 
 **Getting Started**
 
-Prerequisites:
+***Prerequisites:***
 
 Snowflake account (trial or paid)
 
@@ -52,7 +52,7 @@ CSV	Source -  Data format
 
 **Data Quality Rules**
 
-The silver layer implements several data quality checks:
+***The silver layer implements several data quality checks:***
 
 Email validation       - LIKE '%@%.%' pattern matching
 
